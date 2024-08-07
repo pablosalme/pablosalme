@@ -1,16 +1,41 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<!--
-**pablosalme/pablosalme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
+<h3 align="center">A passionate software engineer from Madrid</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=pablosalme&label=Profile%20views&color=0e75b6&style=flat" alt="Pablo Salmerón" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/go-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/typescript-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br>
+
+### About Me
+- 💻 Full-stack Developer
+- 🚀 Tech Enthusiast
+- 🌐 Open-source Lover
+
+### Languages I'm Learning
+- **Go**: Building efficient and scalable applications.
+- **Rust**: Systems programming with a focus on safety and performance.
+- **TypeScript**: Enhancing JavaScript with type safety.
+
+### Featured Projects
+- **[Data Analysis with Python](https://github.com/pablosalme/analisis_datos_python)**: Practical exercises and projects from my Data Analysis and AI course.
+- **[Apache Spark Course](https://github.com/pablosalme/pyspark_course)**: Code and datasets used in my Udemy course on Apache Spark.
+
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/pablo-salmeron/)
+
+Feel free to explore my repositories and connect with me!
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
