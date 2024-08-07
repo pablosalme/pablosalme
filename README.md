@@ -1,4 +1,4 @@
-<img src="/Users/pablo/Downloads/Make your README.png" alt="GitHub Profile Header" width="100%" />
+<img src="banner_pablo.png" alt="GitHub Profile Header" width="100%" />
 
 <div align="center">
   <table style="border: none;">
