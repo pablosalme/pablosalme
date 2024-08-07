@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
 <h3 align="center">A passionate Data Engineer from Madrid</h3>
 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=pablosalme&label=Profile%20views&color=0e75b6&style=flat" alt="Pablo Salmerón" />
-</p>
-
 <div align="center">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" />
@@ -38,5 +34,3 @@
 Feel free to explore my repositories and connect with me!
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
