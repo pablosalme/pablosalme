@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
-
-<div>
-    <img align="left" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
-    <h3 align="center">A passionate Data Engineer from Madrid</h3>
-    <img align="right" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
+    <div>
+        <h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
+        <h3 align="center">A passionate Data Engineer from Madrid</h3>
+    </div>
+    <img src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
 </div>
 
 <p align="center">
