@@ -1,7 +1,14 @@
-<img align="left" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
-
 <h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
-<h3 align="center">A passionate Data Engineer from Madrid</h3>
+
+<div>
+    <img align="left" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
+    <h3 align="center">A passionate Data Engineer from Madrid</h3>
+    <img align="right" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
+</div>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=pablosalme&label=Profile%20views&color=0e75b6&style=flat" alt="Pablo Salmerón" />
+</p>
 
 <div align="center">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
