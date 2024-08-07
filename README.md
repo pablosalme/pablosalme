@@ -8,10 +8,11 @@
 </p>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/javascript-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/sql-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
 <br>
