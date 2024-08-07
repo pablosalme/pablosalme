@@ -44,7 +44,15 @@
 - **[Apache Spark Course](https://github.com/pablosalme/pyspark_course)**: Code and datasets used in my Udemy course on Apache Spark.
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pablo-salmeron/)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pablo-salmeron/" target="_blank">
+    <img src="https://techstack-generator.vercel.app/linkedin-icon.svg" alt="LinkedIn icon" width="40" height="40" />
+  </a>
+  <a href="https://discord.com/users/salme.tmp" target="_blank">
+    <img src="https://techstack-generator.vercel.app/discord-icon.svg" alt="Discord icon" width="40" height="40" />
+  </a>
+</div>
 
 Feel free to explore my repositories and connect with me!
 
