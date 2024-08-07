@@ -11,8 +11,6 @@
  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
 </div>
 
-<br>
-
 ### About Me
 - 💻 Data Engineer
 - 🚀 Tech Enthusiast
