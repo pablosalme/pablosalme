@@ -1,21 +1,5 @@
 <img src="banner_pablo.png" alt="GitHub Profile Header" width="100%" />
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="left" style="border: none;">
-        <img src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="100" height="100">
-      </td>
-      <td align="center" style="border: none;">
-        <h3 align="center">A passionate Data Engineer from Madrid</h3>
-      </td>
-      <td align="right" style="border: none;">
-        <img src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="100" height="100">
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=pablosalme&label=Profile%20views&color=0e75b6&style=flat" alt="Pablo Salmerón" />
 </p>
