@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="21%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="21%" style="display:inline;">
+<img align="left" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;"><img align="right" src="https://media.giphy.com/media/9KraFugzoAnp6CXsCH/giphy.gif" width="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Pablo Salmerón</h1>
 <h3 align="center">A passionate Data Engineer from Madrid</h3>
