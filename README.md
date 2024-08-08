@@ -39,6 +39,9 @@
 ### Connect with Me
 
 <div align="center">
+  <a href="https://x.com/pablosalme_tw" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
   <a href="https://www.linkedin.com/in/pablo-salmeron/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
