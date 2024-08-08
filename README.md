@@ -1,5 +1,10 @@
 <img src="banner_pablo.png" alt="GitHub Profile Header" width="100%" />
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,github,py,docker,aws,vscode" />
+  </a>
+</p>
 <div align="center">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" />
