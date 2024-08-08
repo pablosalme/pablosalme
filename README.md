@@ -40,10 +40,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pablo-salmeron/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://discord.com/users/salme.tmp" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord icon" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
 
