@@ -1,17 +1,25 @@
 <img src="banner_pablo.png" alt="GitHub Profile Header" width="100%" />
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,github,py,docker,aws,vscode" />
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+    <a href="https://github.com/pablosalme">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+    <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  </a>
+    <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+    <a href="https://aws.amazon.com">
+    <img src="https://skillicons.dev/icons?i=aws" />
+  </a>
+    <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
 </p>
-<div align="center">
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="57" height="57" />
- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" />
- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="57" height="57" />
- <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="57" height="57" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="57" height="57" />
-</div>
 
 ### About Me
 - 💻 Data Engineer
