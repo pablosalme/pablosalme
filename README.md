@@ -39,13 +39,13 @@
 ### Connect with Me
 
 <div align="center">
-  <a href="https://x.com/pablosalme_tw" target="_blank">
+  <a href="https://x.com/pablosalme_tw">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/pablo-salmeron/" target="_blank">
+  <a href="https://www.linkedin.com/in/pablo-salmeron/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://discord.com/users/salme.tmp" target="_blank">
+  <a href="https://discord.com/users/salme.tmp">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
