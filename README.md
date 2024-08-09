@@ -49,6 +49,9 @@
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
+<div>
+  [![Email](https://img.shields.io/badge/pablosalmeroncarrasco@gmail.com--D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pablosalmeroncarrasco@gmail.com)
+</div>
 
 Feel free to explore my repositories and connect with me!
 
