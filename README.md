@@ -59,9 +59,11 @@ Currently focused on mastering **machine learning**, **deep learning** and **AI 
   </a>
 </p>
 
-<p align="center">
-  [![Email](https://img.shields.io/badge/pablosalmeroncarrasco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pablosalmeroncarrasco@gmail.com)
-</p>
+<div align="center">
+  
+   [![Email](https://img.shields.io/badge/pablosalmeroncarrasco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pablosalmeroncarrasco@gmail.com)
+
+</div>
 
 > I’m always learning and exploring new ways to solve problems with data.  
 > Let’s connect and build something meaningful together!
