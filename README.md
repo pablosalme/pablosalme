@@ -25,7 +25,7 @@
 </p>
 
 ### 👨‍💻 About Me
-I'm **Pablo Salmerón**, an aspiring **Data Scientist** with a strong background in data engineering, automation and cloud computing. My journey combina análisis de datos con Python, visualización avanzada en Power BI y despliegue en AWS.  
+I'm **Pablo Salmerón**, an aspiring **Data Scientist** with a strong background in data engineering, automation and cloud computing. My journey combines data analysis with Python, advanced visualization in Power BI, and deployment on AWS.  
 Currently focused on mastering **machine learning**, **deep learning** and **AI applications**.
 
 ---
