@@ -1,71 +1,164 @@
-<img src="banner_pablo.png" alt="GitHub Profile Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pablo%20Salmeron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://skillicons.dev/icons?i=py" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" />
-  </a>
-  <a href="https://aws.amazon.com">
-    <img src="https://skillicons.dev/icons?i=aws" />
-  </a>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" />
-  </a>
-  <a href="https://github.com/pablosalme">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+data+pipelines+%F0%9F%93%8A;Crafting+web+applications+%F0%9F%9A%80;Learning+machine+learning+%F0%9F%A4%96;Always+exploring+new+tech+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
-### 👨‍💻 About Me
-I'm **Pablo Salmerón**, an aspiring **Data Scientist** with a strong background in data engineering, automation and cloud computing. My journey combines data analysis with Python, advanced visualization in Power BI, and deployment on AWS.  
-Currently focused on mastering **machine learning**, **deep learning** and **AI applications**.
+## 🧑‍💻 About Me
+
+> Passionate about turning data into insights and ideas into applications.
+
+- 🔬 **Data Scientist** — Python, Machine Learning, ETL pipelines
+- 💻 **Full-Stack Developer** — TypeScript, NestJS, Next.js
+- ☁️ **Cloud Enthusiast** — AWS, Docker, PostgreSQL
+- 📍 Based in Spain
+- 🌱 Currently building [SumaKey](https://sumakey.com) — A customer loyalty SaaS platform
 
 ---
 
-### ⚙️ Skills & Technologies
-- **Languages**: Python (pandas, scikit-learn, matplotlib), SQL
-- **Tools & Cloud**: Power BI, AWS (S3, Lambda), Git, Docker
-- **Databases**: MySQL, PostgreSQL
-- **Workflow**: Data pipelines · ETL · Data Visualization · Model Deployment
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>📊 Data & Analytics</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow&theme=dark" />
+</p>
+<p align="center">
+  <code>Python</code> · <code>Pandas</code> · <code>Scikit-learn</code> · <code>PySpark</code> · <code>Power BI</code>
+</p>
+</details>
+
+<details open>
+<summary><b>🌐 Web Development</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,prisma,tailwind&theme=dark" />
+</p>
+<p align="center">
+  <code>TypeScript</code> · <code>NestJS</code> · <code>Next.js</code> · <code>React</code> · <code>Prisma</code> · <code>TailwindCSS</code>
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Infrastructure & Tools</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,git,githubactions&theme=dark" />
+</p>
+<p align="center">
+  <code>AWS</code> · <code>Docker</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>Git</code> · <code>CI/CD</code>
+</p>
+</details>
 
 ---
 
-### 📂 Featured Projects
-- 🔍 **[Data Analysis with Python](https://github.com/pablosalme/analisis_datos_python)**: Exploratory analysis, visualizations and predictive modeling with real datasets.
-- ⚡ **[PySpark Course](https://github.com/pablosalme/pyspark_course)**: Distributed data processing with Apache Spark using Python.
-- 📊 **[PequeGo Data Reports](https://github.com/pablosalme/pequego-data)**: Dashboards and KPIs for an eCommerce project using Power BI and Python.
-
----
-
-### 🤝 Connect with Me
+## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablosalme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pablosalme&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablosalme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="40%" alt="Top Languages"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">SumaKey Loyalty</h3>
+      <p align="center">
+        <a href="https://sumakey.com" target="_blank">
+          <img src="https://img.shields.io/badge/🔗_Live-sumakey.com-6C63FF?style=for-the-badge"/>
+        </a>
+      </p>
+      <p align="center">
+        Customer loyalty SaaS platform with Apple Wallet & Google Wallet integration. Multi-tenant architecture with subscription billing.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,postgres,aws&theme=dark" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Data Analysis Portfolio</h3>
+      <p align="center">
+        <a href="https://github.com/pablosalme/analisis_datos_python" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p align="center">
+        Exploratory analysis, visualizations and predictive modeling with real datasets using Python and Jupyter notebooks.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py,anaconda&theme=dark" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">PySpark Course</h3>
+      <p align="center">
+        <a href="https://github.com/pablosalme/pyspark_course" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p align="center">
+        Distributed data processing with Apache Spark using Python. Big data processing patterns and optimizations.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">PequeGo Data Reports</h3>
+      <p align="center">
+        <a href="https://github.com/pablosalme/pequego-data" target="_blank">
+          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+      <p align="center">
+        Dashboards and KPIs for an eCommerce project. Business intelligence with Power BI and Python automation.
+      </p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=py&theme=dark" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/pablo-salmeron">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
   <a href="https://x.com/pablosalme_tw">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/in/pablo-salmeron/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  &nbsp;
+  <a href="mailto:pablosalmeroncarrasco@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://discord.com/users/salme.tmp">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
-<div align="center">
-  
-   [![Email](https://img.shields.io/badge/pablosalmeroncarrasco@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pablosalmeroncarrasco@gmail.com)
+<br>
 
-</div>
+<p align="center">
+  <i>Always learning and exploring new ways to solve problems with code and data.</i>
+</p>
 
-> I’m always learning and exploring new ways to solve problems with data.  
-> Let’s connect and build something meaningful together!
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
