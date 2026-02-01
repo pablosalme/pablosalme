@@ -107,7 +107,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3 align="center">PySpark Course</h3>
       <p align="center">
         <a href="https://github.com/pablosalme/pyspark_course" target="_blank">
@@ -116,20 +116,6 @@
       </p>
       <p align="center">
         Distributed data processing with Apache Spark using Python. Big data processing patterns and optimizations.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=py&theme=dark" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">PequeGo Data Reports</h3>
-      <p align="center">
-        <a href="https://github.com/pablosalme/pequego-data" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center">
-        Dashboards and KPIs for an eCommerce project. Business intelligence with Power BI and Python automation.
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=py&theme=dark" />
