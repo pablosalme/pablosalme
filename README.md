@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pablo%20Salmer%C3%B3n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IA%20aplicada%20con%20Claude%20Code&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PabloInPublic&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IA%20aplicada%20con%20Claude%20Code&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
