@@ -1,155 +1,49 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pablo%20Salmeron&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Scientist%20%7C%20Full-Stack%20Developer&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pablo%20Salmer%C3%B3n&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IA%20aplicada%20con%20Claude%20Code&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+data+pipelines+%F0%9F%93%8A;Crafting+web+applications+%F0%9F%9A%80;Learning+machine+learning+%F0%9F%A4%96;Always+exploring+new+tech+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=IA+aplicada%2C+sin+humo+%E2%9C%A8;Workflows+reales+con+Claude+Code+%F0%9F%A4%96;Agentes+y+automatizaci%C3%B3n+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
-## 🧑‍💻 About Me
+## 👋 Hola, soy Pablo
 
-> Passionate about turning data into insights and ideas into applications.
+Trabajo con IA para sacar productos y automatizaciones reales adelante. Enseño cómo uso **Claude Code** y agentes en proyectos de verdad, sin jerga ni humo.
 
-- 🔬 **Data Scientist** — Python, Machine Learning, ETL pipelines
-- 💻 **Full-Stack Developer** — TypeScript, NestJS, Next.js
-- ☁️ **Cloud Enthusiast** — AWS, Docker, PostgreSQL
-- 📍 Based in Spain
-- 🌱 Currently building [SumaKey](https://sumakey.com) — A customer loyalty SaaS platform
+- 🤖 Foco en **IA aplicada**: Claude Code, agentes, automatización
+- 🎥 Contenido en Instagram (canal principal), día sí día no
+- 📍 España · 🇪🇸 en español
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 PabloInPublic
 
-<details open>
-<summary><b>📊 Data & Analytics</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,anaconda,tensorflow&theme=dark" />
-</p>
-<p align="center">
-  <code>Python</code> · <code>Pandas</code> · <code>Scikit-learn</code> · <code>PySpark</code> · <code>Power BI</code>
-</p>
-</details>
+> Referente hispano de IA aplicada con Claude Code.
 
-<details open>
-<summary><b>🌐 Web Development</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,react,prisma,tailwind&theme=dark" />
-</p>
-<p align="center">
-  <code>TypeScript</code> · <code>NestJS</code> · <code>Next.js</code> · <code>React</code> · <code>Prisma</code> · <code>TailwindCSS</code>
-</p>
-</details>
-
-<details open>
-<summary><b>☁️ Infrastructure & Tools</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,postgres,mysql,git,githubactions&theme=dark" />
-</p>
-<p align="center">
-  <code>AWS</code> · <code>Docker</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>Git</code> · <code>CI/CD</code>
-</p>
-</details>
+Comunidad, recursos y consultoría 1:1 sobre cómo usar Claude Code y agentes en proyectos reales. Todo el ecosistema vive en **[pabloinpublic.com](https://pabloinpublic.com)**.
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Conecta
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pablosalme&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pablosalme&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pablosalme&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pablosalme&theme=tokyonight" alt="Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablosalme&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="95%" alt="Activity Graph"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">SumaKey Loyalty</h3>
-      <p align="center">
-        <a href="https://sumakey.com" target="_blank">
-          <img src="https://img.shields.io/badge/🔗_Live-sumakey.com-6C63FF?style=for-the-badge"/>
-        </a>
-      </p>
-      <p align="center">
-        Customer loyalty SaaS platform with Apple Wallet & Google Wallet integration. Multi-tenant architecture with subscription billing.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=ts,nestjs,nextjs,postgres,aws&theme=dark" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Data Analysis Portfolio</h3>
-      <p align="center">
-        <a href="https://github.com/pablosalme/analisis_datos_python" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center">
-        Exploratory analysis, visualizations and predictive modeling with real datasets using Python and Jupyter notebooks.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=py,anaconda&theme=dark" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3 align="center">PySpark Course</h3>
-      <p align="center">
-        <a href="https://github.com/pablosalme/pyspark_course" target="_blank">
-          <img src="https://img.shields.io/badge/📂_Repo-GitHub-181717?style=for-the-badge&logo=github"/>
-        </a>
-      </p>
-      <p align="center">
-        Distributed data processing with Apache Spark using Python. Big data processing patterns and optimizations.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=py&theme=dark" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/pablo-salmeron">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://pabloinpublic.com">
+    <img src="https://img.shields.io/badge/🌐_Web-pabloinpublic.com-6C63FF?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="https://x.com/pablosalme_tw">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+  <a href="https://instagram.com/pabloinpublic">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="mailto:pablosalmeroncarrasco@gmail.com">
+  <a href="mailto:pablo@pabloinpublic.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/salme.tmp">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <i>Always learning and exploring new ways to solve problems with code and data.</i>
+  <i>IA aplicada, sin humo.</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
