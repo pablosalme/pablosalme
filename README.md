@@ -11,7 +11,7 @@
 Trabajo con IA para sacar productos y automatizaciones reales adelante. Enseño cómo uso **Claude Code** y agentes en proyectos de verdad, sin jerga ni humo.
 
 - 🤖 Foco en **IA aplicada**: Claude Code, agentes, automatización
-- 🎥 Contenido en Instagram (canal principal), día sí día no
+- 🎥 Reels sobre IA aplicada en Instagram y TikTok, lunes y viernes
 - 📍 España · 🇪🇸 en español
 
 ---
@@ -20,7 +20,7 @@ Trabajo con IA para sacar productos y automatizaciones reales adelante. Enseño 
 
 > Referente hispano de IA aplicada con Claude Code.
 
-Comunidad, recursos y consultoría 1:1 sobre cómo usar Claude Code y agentes en proyectos reales. Todo el ecosistema vive en **[pabloinpublic.com](https://pabloinpublic.com)**.
+Recursos gratuitos y guías prácticas sobre cómo usar Claude Code y agentes en proyectos reales. Todo el ecosistema vive en **[pabloinpublic.com](https://pabloinpublic.com)**.
 
 ---
 
