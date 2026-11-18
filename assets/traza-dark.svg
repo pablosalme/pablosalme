@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 392" width="720" height="392" role="img" aria-labelledby="t d">
+<title id="t">Traza de una ejecución del orquestador</title>
+<desc id="d">El orquestador delega tres tareas en claude, codex y opencode, cada uno en su rama y su worktree. Después otro modelo revisa los cambios, pasan los evals y los guardrails y las ramas se integran en main.</desc>
+<defs><clipPath id="k"><rect x="1" y="1" width="718" height="390" rx="14"/></clipPath></defs>
+<g clip-path="url(#k)"><rect width="720" height="392" fill="#0f141b"/><rect width="720" height="44" fill="#1c2530"/></g>
+<rect x="1" y="1" width="718" height="390" rx="14" fill="none" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M1 44H719M1 346H719" stroke="#2c3a4a" stroke-width="1"/>
+<circle cx="26" cy="22" r="4.5" fill="#7ec699"><animate attributeName="opacity" dur="2s" repeatCount="indefinite" keyTimes="0;0.5;1" values="1;0.35;1"/></circle>
+<text x="42" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="159.6" lengthAdjust="spacingAndGlyphs">traza · orquestador</text>
+<text x="696" y="27" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8fa3bd" text-anchor="end" textLength="179.4" lengthAdjust="spacingAndGlyphs">3 agentes · 3 worktrees</text>
+<path d="M382 60V338" stroke="#2c3a4a" stroke-width="1" stroke-dasharray="2 5"/>
+<path d="M472 60V338" stroke="#2c3a4a" stroke-width="1" stroke-dasharray="2 5"/>
+<path d="M562 60V338" stroke="#2c3a4a" stroke-width="1" stroke-dasharray="2 5"/>
+<path d="M30 90V320" stroke="#2c3a4a" stroke-width="1.5" fill="none"/>
+<path d="M30 120H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M30 160H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M30 200H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M30 240H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M30 280H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<path d="M30 320H42" stroke="#2c3a4a" stroke-width="1.5"/>
+<g><animate attributeName="opacity" dur="14s" repeatCount="indefinite" keyTimes="0;0.95;0.985;1" values="1;1;0;0"/>
+<text x="24" y="85" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#f4f7fa" text-anchor="start" textLength="92.4" lengthAdjust="spacingAndGlyphs" font-weight="600">orquestador</text>
+<rect x="292" y="73" width="360" height="14" rx="3" fill="#1c2530"/>
+<rect x="292" y="73" width="0" height="14" rx="3" fill="#556f8d" opacity="0.55"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.04;0.78;1" values="0;0;360;360"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.78" values="0;1"/><path d="M670 80 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="125" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">claude</text>
+<text x="108.8" y="125" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="117.6" lengthAdjust="spacingAndGlyphs">feat/mcp-tools</text>
+<rect x="310" y="113" width="162" height="14" rx="3" fill="#1c2530"/>
+<rect x="310" y="113" width="0" height="14" rx="3" fill="#d97757"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.077;0.41;1" values="0;0;162;162"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.41" values="0;1"/><path d="M670 120 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="165" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="42" lengthAdjust="spacingAndGlyphs">codex</text>
+<text x="100.4" y="165" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="117.6" lengthAdjust="spacingAndGlyphs">fix/hook-retry</text>
+<rect x="310" y="153" width="118.8" height="14" rx="3" fill="#1c2530"/>
+<rect x="310" y="153" width="0" height="14" rx="3" fill="#d97757"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.077;0.3212;1" values="0;0;118.8;118.8"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3212" values="0;1"/><path d="M670 160 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="205" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="67.2" lengthAdjust="spacingAndGlyphs">opencode</text>
+<text x="125.6" y="205" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="84" lengthAdjust="spacingAndGlyphs">docs/skill</text>
+<rect x="310" y="193" width="140.4" height="14" rx="3" fill="#1c2530"/>
+<rect x="310" y="193" width="0" height="14" rx="3" fill="#d97757"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.077;0.3656;1" values="0;0;140.4;140.4"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.3656" values="0;1"/><path d="M670 200 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="245" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="33.6" lengthAdjust="spacingAndGlyphs">grok</text>
+<text x="92" y="245" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="134.4" lengthAdjust="spacingAndGlyphs">revisión cruzada</text>
+<rect x="479.2" y="233" width="64.8" height="14" rx="3" fill="#1c2530"/>
+<rect x="479.2" y="233" width="0" height="14" rx="3" fill="#6f88a6"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.4248;0.558;1" values="0;0;64.8;64.8"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.558" values="0;1"/><path d="M670 240 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="285" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="42" lengthAdjust="spacingAndGlyphs">evals</text>
+<text x="100.4" y="285" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="100.8" lengthAdjust="spacingAndGlyphs">+ guardrails</text>
+<rect x="551.2" y="273" width="50.4" height="14" rx="3" fill="#1c2530"/>
+<rect x="551.2" y="273" width="0" height="14" rx="3" fill="#7ec699"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.5728;0.6764;1" values="0;0;50.4;50.4"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6764" values="0;1"/><path d="M670 280 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<text x="50" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="67.2" lengthAdjust="spacingAndGlyphs">integrar</text>
+<text x="125.6" y="325" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8fa3bd" text-anchor="start" textLength="50.4" lengthAdjust="spacingAndGlyphs">→ main</text>
+<rect x="608.8" y="313" width="43.2" height="14" rx="3" fill="#1c2530"/>
+<rect x="608.8" y="313" width="0" height="14" rx="3" fill="#7ec699"><animate attributeName="width" dur="14s" repeatCount="indefinite" keyTimes="0;0.6912;0.78;1" values="0;0;43.2;43.2"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.78" values="0;1"/><path d="M670 320 l4 4 l8 -9" fill="none" stroke="#7ec699" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<rect x="292" y="64" width="1.5" height="274" fill="#d97757"><animate attributeName="x" dur="14s" repeatCount="indefinite" keyTimes="0;0.04;0.78;1" values="292;292;652;652"/></rect>
+</g>
+<text x="24" y="374" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#d97757" text-anchor="start" font-weight="700">›</text>
+<text x="42" y="374" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="378" lengthAdjust="spacingAndGlyphs" opacity="1">3 agentes en paralelo, un worktree por agente<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4248" values="1;0"/></text>
+<text x="42" y="374" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="386.4" lengthAdjust="spacingAndGlyphs" opacity="0">otro modelo revisa cada diff antes de integrar<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.4248;0.5728" values="0;1;0"/></text>
+<text x="42" y="374" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="361.2" lengthAdjust="spacingAndGlyphs" opacity="0">evals y guardrails: sin verde no se integra<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5728;0.6912" values="0;1;0"/></text>
+<text x="42" y="374" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#e5ebf2" text-anchor="start" textLength="201.6" lengthAdjust="spacingAndGlyphs" opacity="0">ramas integradas en main<animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.6912;0.95" values="0;1;0"/></text>
+</svg>
