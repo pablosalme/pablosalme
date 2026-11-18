@@ -1,0 +1,57 @@
+name: Actividad
+
+# Genera las gráficas de actividad del README (snake y racha) y las deja en la
+# rama `output` como un único commit, firmado con la identidad de Pablo.
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actividad
+  cancel-in-progress: true
+
+jobs:
+  generar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Snake de contribuciones
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#d97757&color_dots=#e5ebf2,#cad5e2,#a4b6ca,#6f88a6,#374759
+            dist/snake-dark.svg?color_snake=#d97757&color_dots=#1c2530,#374759,#556f8d,#8fa3bd,#e5ebf2
+
+      - name: Racha
+        env:
+          USUARIO: ${{ github.repository_owner }}
+        run: |
+          set -euo pipefail
+          base="https://streak-stats.demolab.com/?user=${USUARIO}&locale=es&date_format=j%20M%5B%20Y%5D&hide_border=true&border_radius=14"
+          curl -fsS --retry 4 --retry-delay 10 --max-time 60 -o dist/racha-dark.svg \
+            "${base}&background=00000000&stroke=374759&ring=8fa3bd&fire=d97757&currStreakNum=f4f7fa&sideNums=f4f7fa&currStreakLabel=d97757&sideLabels=a4b6ca&dates=8fa3bd"
+          curl -fsS --retry 4 --retry-delay 10 --max-time 60 -o dist/racha-light.svg \
+            "${base}&background=00000000&stroke=cad5e2&ring=556f8d&fire=d97757&currStreakNum=1c2530&sideNums=1c2530&currStreakLabel=c2613f&sideLabels=556f8d&dates=6f88a6"
+          for f in dist/racha-dark.svg dist/racha-light.svg; do
+            grep -q "<svg" "$f"
+            ! grep -qi "rate limit\|something went wrong" "$f"
+          done
+
+      - name: Publica en la rama output
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          cd dist
+          git init -q -b output
+          git config user.name "Pablo Salme"
+          git config user.email "pablo@pabloinpublic.com"
+          git add snake-light.svg snake-dark.svg racha-light.svg racha-dark.svg
+          git commit -q -m "Actualiza las gráficas de actividad"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
